@@ -38,7 +38,7 @@ See `requirements.txt` for exact package versions.
 > Tested on Linux with Mininet-WiFi and Ryu installed.
 
 
-## Experimental methodology (summary)
+## Experimental methodology
 
 Testbed: Mininet-WiFi emulated WLAN with 7 APs (central hub), 5 mobile stations, Ryu controller via OpenFlow 1.3.
 
