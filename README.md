@@ -30,8 +30,7 @@ Seamless mobility in dense Wi-Fi deployments is critical for latency-sensitive a
 - Mininet-WiFi (tested version X.X) — install per Mininet-WiFi docs  
 - Ryu SDN Framework  
 - Open vSwitch (ovs)  
-- Python 3.8+ and packages in `requirements.txt`: `psutil`, `pandas`, `matplotlib`, `numpy`, `scipy`, `flask` (if used), `mininet-wifi` (Python bindings), etc.  
-See `requirements.txt` for exact package versions.
+- Python 3.8+ and packages in `requirements.txt`: `psutil`, `pandas`, `matplotlib`, `numpy`, `scipy`, `flask` (if used), `mininet-wifi` (Python bindings), etc. 
 
 ---
 
