@@ -35,13 +35,16 @@ Seamless mobility in dense Wi-Fi deployments is critical for latency-sensitive a
 ---
 
 ## Quickstart (local test)
-> Tested on Linux with Mininet-WiFi and Ryu installed.
->
-> 1 - run controller on terminal 1 :  ryu-manager enhanced_controller.py
-> 2 - run Random direction mobility on terminal 2 : sudo python3 enhanced_topology.py --mobility RandomDirection --duration 300
-> 3 - run Random way point mobility on terminal 2 : sudo python3 enhanced_topology.py --mobility RandomWayPoint --duration 300
->
-> run 1 & 2 and then 1 & 3
+Tested on Linux with Mininet-WiFi and Ryu installed.
+
+ 1 - run controller on terminal 1 :  ryu-manager enhanced_controller.py
+
+ 2 - run Random direction mobility on terminal 2 : sudo python3 enhanced_topology.py --mobility RandomDirection --duration 300
+
+ 3 - run Random way point mobility on terminal 2 : sudo python3 enhanced_topology.py --mobility RandomWayPoint --duration 300
+
+
+ run 1 & 2 and then 1 & 3
 
 ## Experimental methodology
 
