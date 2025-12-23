@@ -5,8 +5,7 @@ Comparative analysis of SDN-assisted handover strategies under Random Way Point 
 
 # SDN Handover Comparative Analysis — Mininet-WiFi & Ryu
 
-**Short summary**  
-This repository contains the implementation and evaluation of five handover strategies for SDN-enabled WLANs (Reactive, Proactive, Load-Aware, Signal-Based, and SDN-Optimized). Experiments were run in Mininet-WiFi with the Ryu controller to compare performance under two canonical mobility models (Random Way Point and Random Direction). The study evaluates handover delay, success rate, packet loss, throughput, latency, and SDN control-plane overhead, including an application-level video streaming scenario.
+in this Project we implement and evaluate five handover strategies for SDN-enabled WLANs (Reactive, Proactive, Load-Aware, Signal-Based, and SDN-Optimized). Experiments were run in Mininet-WiFi with the Ryu controller to compare performance under two canonical mobility models (Random Way Point and Random Direction). The study evaluates handover delay, success rate, packet loss, throughput, latency, and SDN control-plane overhead, including an application-level video streaming scenario.
 
 ---
 
