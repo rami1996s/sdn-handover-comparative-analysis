@@ -35,7 +35,7 @@ Seamless mobility in dense Wi-Fi deployments is critical for latency-sensitive a
 ---
 
 ## Quickstart (local test)
-Tested on Linux with Mininet-WiFi and Ryu installed.
+Tested on Linux with Mininet-WiFi and Ryu installed. two codes : one for controller and one for the mobility (include RD & RWP)
 
  1 - run controller on terminal 1 :  ryu-manager enhanced_controller.py
 
