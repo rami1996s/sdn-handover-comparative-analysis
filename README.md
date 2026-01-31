@@ -56,3 +56,6 @@ Metrics: handover delay, success rate, packet loss, throughput, latency, jitter,
 
 Each run: 15–20 minutes, metrics logged every 5 seconds; strategies rotated to ensure comparable measurement windows
 
+
+<img width="920" height="838" alt="Topology" src="https://github.com/user-attachments/assets/049851d5-18ab-44d6-8796-4ddb4be997db" />
+
